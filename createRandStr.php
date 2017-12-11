@@ -49,7 +49,6 @@ function setRand($length, $number) {
         if($filter) {
             $n[$i] = $str;
         }
-
     }
 
     $unique = array_unique($n);
